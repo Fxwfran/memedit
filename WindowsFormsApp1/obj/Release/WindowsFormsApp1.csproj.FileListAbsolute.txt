@@ -1,0 +1,12 @@
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Fasm.NET.dll
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\MemorySharp.dll
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Fasm.NET.xml
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\MemorySharp.xml
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.Cache
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
