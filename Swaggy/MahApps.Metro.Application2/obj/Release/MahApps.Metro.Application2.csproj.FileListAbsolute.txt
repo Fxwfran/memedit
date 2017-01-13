@@ -1,0 +1,16 @@
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\MahApps.Metro.Application2\MahApps.Metro.Application2\bin\Release\MahApps.Metro.Application2.exe.config
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\MahApps.Metro.Application2\MahApps.Metro.Application2\bin\Release\MahApps.Metro.Application2.exe
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\MahApps.Metro.Application2\MahApps.Metro.Application2\bin\Release\MahApps.Metro.Application2.pdb
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\MahApps.Metro.Application2\MahApps.Metro.Application2\bin\Release\MahApps.Metro.dll
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\MahApps.Metro.Application2\MahApps.Metro.Application2\bin\Release\System.Windows.Interactivity.dll
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\MahApps.Metro.Application2\MahApps.Metro.Application2\bin\Release\MahApps.Metro.xml
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\MahApps.Metro.Application2\MahApps.Metro.Application2\obj\Release\MainWindow.baml
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\MahApps.Metro.Application2\MahApps.Metro.Application2\obj\Release\App.baml
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\MahApps.Metro.Application2\MahApps.Metro.Application2\obj\Release\MainWindow.g.cs
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\MahApps.Metro.Application2\MahApps.Metro.Application2\obj\Release\App.g.cs
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\MahApps.Metro.Application2\MahApps.Metro.Application2\obj\Release\MahApps.Metro.Application2_MarkupCompile.cache
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\MahApps.Metro.Application2\MahApps.Metro.Application2\obj\Release\MahApps.Metro.Application2.g.resources
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\MahApps.Metro.Application2\MahApps.Metro.Application2\obj\Release\MahApps.Metro.Application2.Properties.Resources.resources
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\MahApps.Metro.Application2\MahApps.Metro.Application2\obj\Release\MahApps.Metro.Application2.csproj.GenerateResource.Cache
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\MahApps.Metro.Application2\MahApps.Metro.Application2\obj\Release\MahApps.Metro.Application2.exe
+c:\users\franco.rodriguez\documents\visual studio 2017\Projects\MahApps.Metro.Application2\MahApps.Metro.Application2\obj\Release\MahApps.Metro.Application2.pdb
